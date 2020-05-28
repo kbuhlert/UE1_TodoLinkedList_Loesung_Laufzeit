@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d10b3079-6067-4667-aaea-cdb554fad811" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2Q3p8iiDklyhQzc7Vw4GOUaRz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Campus02\#Unterricht ALD\Code\02_VerketteListeStackQueue\src\UE1" />
+      <recent name="D:\Campus02\#Unterricht ALD\Code\02_VerketteListeStackQueue\src\ue4" />
+      <recent name="D:\Campus02\#Unterricht ALD\Code\02_VerketteListeStackQueue\src\UE4_BookingQueue_Loesung" />
+      <recent name="D:\Campus02\#Unterricht ALD\Code\02_VerketteListeStackQueue\src\UE4_BookingQueue." />
+      <recent name="D:\Campus02\#Unterricht ALD\Code\02_VerketteListeStackQueue\src\UE3_BookStack__" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="UE4_AccountBooking" />
+      <recent name="UE3_BookStack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GetAll">
+    <configuration name="GetAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment.GetAll" />
+      <module name="02_VerketteteListeStackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment.GetFirst" />
+      <module name="02_VerketteteListeStackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment.GetMiddle" />
+      <module name="02_VerketteteListeStackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Experiment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMovieLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UE2_MovieLinkedList_Loesung.TestMovieLinkedList" />
+      <module name="02_VerketteteListeStackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UE2_MovieLinkedList_Loesung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMovieLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UE2_MovieLinkedList_Unterricht.TestMovieLinkedList" />
+      <module name="02_VerketteteListeStackQueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UE2_MovieLinkedList_Unterricht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetAll" />
+        <item itemvalue="Application.GetMiddle" />
+        <item itemvalue="Application.GetFirst" />
+        <item itemvalue="Application.TestMovieLinkedList (1)" />
+        <item itemvalue="Application.TestMovieLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d10b3079-6067-4667-aaea-cdb554fad811" name="Default Changelist" comment="" />
+      <created>1582138012808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582138012808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1583592537293">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="605" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1582575080969" />
+    <state x="726" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1583592537293" />
+    <state x="530" y="215" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582574604675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="215" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1582574604675" />
+    <state x="530" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582574630765">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="244" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1582574630765" />
+    <state x="601" y="322" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582574646327">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="322" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1582574646327" />
+    <state x="488" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584208408310">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="488" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1584208408310" />
+    <state x="585" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583599242373" />
+    <state width="424" height="466" key="DebuggerActiveHint" timestamp="1583590076619">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1920.1160@0.0.1920.1160" timestamp="1583590076619" />
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1584191612812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584191612812" />
+    <state x="695" y="348" key="Github.ShareDialog" timestamp="1590647730066">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="695" y="348" key="Github.ShareDialog/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590647730066" />
+    <state width="1632" height="194" key="GridCell.Tab.0.bottom" timestamp="1590586518942">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1501" height="202" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
+    <state width="1397" height="238" key="GridCell.Tab.0.bottom/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
+    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
+    <state width="1632" height="194" key="GridCell.Tab.0.bottom/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518942" />
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510575" />
+    <state width="1632" height="194" key="GridCell.Tab.0.center" timestamp="1590586518941">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1501" height="202" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
+    <state width="1397" height="238" key="GridCell.Tab.0.center/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
+    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
+    <state width="1632" height="194" key="GridCell.Tab.0.center/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518941" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
+    <state width="1632" height="194" key="GridCell.Tab.0.left" timestamp="1590586518941">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1501" height="202" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
+    <state width="1397" height="238" key="GridCell.Tab.0.left/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666369" />
+    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
+    <state width="1632" height="194" key="GridCell.Tab.0.left/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518941" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
+    <state width="1632" height="194" key="GridCell.Tab.0.right" timestamp="1590586518942">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1501" height="202" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
+    <state width="1397" height="238" key="GridCell.Tab.0.right/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
+    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
+    <state width="1632" height="194" key="GridCell.Tab.0.right/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518942" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1583591442814">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582579066499" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583591442814" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1583591442812">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1582579066499" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583591442812" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1583591442812">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1582579066498" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583591442812" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1583591442812">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582579066499" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583591442812" />
+    <state x="2383" y="210" key="SettingsEditor" timestamp="1589666440038">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2383" y="210" key="SettingsEditor/0.0.1280.689/460.1080.1000.504/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589666440038" />
+    <state x="463" y="226" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1582138281592" />
+    <state x="610" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1588424708989">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="610" y="349" key="com.intellij.ide.util.TipDialog/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588424708989" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584191577285" />
+    <state x="610" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1583658426284" />
+    <state x="664" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583589176831">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1583589176831" />
+    <state x="299" y="143" key="new project wizard" timestamp="1590647674062">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="342" y="207" key="new project wizard/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588602981174" />
+    <state x="299" y="143" key="new project wizard/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590647674062" />
+    <state x="542" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1582575085390">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="56" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1582575085390" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584195055593">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584195055593" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/UE3_BookStack/TestBookStack.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UE1_TodoLinkedList$TestTodoLinkedList.ic" NAME="TestTodoLinkedList Coverage Results" MODIFIED="1588358303866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UE1_TodoLinkedList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UE1_TodoLinkedList$TestBookStack_getCount.ic" NAME="TestBookStack.getCount Coverage Results" MODIFIED="1583589378897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>UE3_BookStack.*</FILTER>
+    </SUITE>
+  </component>
+</project>
