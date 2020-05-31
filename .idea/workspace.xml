@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10b3079-6067-4667-aaea-cdb554fad811" name="Default Changelist" comment="" />
+    <list default="true" id="d10b3079-6067-4667-aaea-cdb554fad811" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sortieren/InsertionSort/ExperimentInsertionLaufzeit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sortieren/InsertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sortieren/InsertionSort/InsertionSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y2Q3p8iiDklyhQzc7Vw4GOUaRz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +53,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -45,13 +73,13 @@
       <recent name="UE3_BookStack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetAll">
-    <configuration name="GetAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment.GetAll" />
+  <component name="RunManager" selected="Application.ExperimentInsertionLaufzeit">
+    <configuration name="ExperimentInsertionLaufzeit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sortieren.InsertionSort.ExperimentInsertionLaufzeit" />
       <module name="02_VerketteteListeStackQueue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Experiment.*" />
+          <option name="PATTERN" value="Sortieren.InsertionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Experiment.GetFirst" />
+    <configuration name="GetAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment.GetAll" />
       <module name="02_VerketteteListeStackQueue" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMovieLinkedList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UE2_MovieLinkedList_Loesung.TestMovieLinkedList" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sortieren.InsertionSort.InsertionSort" />
       <module name="02_VerketteteListeStackQueue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UE2_MovieLinkedList_Loesung.*" />
+          <option name="PATTERN" value="Sortieren.InsertionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMovieLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UE2_MovieLinkedList_Unterricht.TestMovieLinkedList" />
+    <configuration name="InsertionSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sortieren.InsertionSort.InsertionSort2" />
       <module name="02_VerketteteListeStackQueue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UE2_MovieLinkedList_Unterricht.*" />
+          <option name="PATTERN" value="Sortieren.InsertionSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExperimentInsertionLaufzeit" />
+        <item itemvalue="Application.InsertionSort2" />
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.GetAll" />
         <item itemvalue="Application.GetMiddle" />
-        <item itemvalue="Application.GetFirst" />
-        <item itemvalue="Application.TestMovieLinkedList (1)" />
-        <item itemvalue="Application.TestMovieLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -134,11 +162,23 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="726" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1583592537293">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="634" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1590742957289">
+      <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="605" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1582575080969" />
+    <state x="634" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590742957289" />
     <state x="726" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1583592537293" />
     <state x="530" y="215" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582574604675">
       <screen x="0" y="0" width="1600" height="860" />
@@ -165,41 +205,45 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584191612812" />
-    <state x="695" y="348" key="Github.ShareDialog" timestamp="1590647730066">
+    <state x="695" y="348" key="Github.ShareDialog" timestamp="1590656719341">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="695" y="348" key="Github.ShareDialog/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590647730066" />
-    <state width="1632" height="194" key="GridCell.Tab.0.bottom" timestamp="1590586518942">
+    <state x="695" y="348" key="Github.ShareDialog/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590656719341" />
+    <state x="402" y="148" key="Github.UntrackedFilesDialog" timestamp="1590656726527">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="402" y="148" key="Github.UntrackedFilesDialog/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590656726526" />
+    <state width="1632" height="183" key="GridCell.Tab.0.bottom" timestamp="1590747177767">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1501" height="202" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
     <state width="1397" height="238" key="GridCell.Tab.0.bottom/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
     <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
-    <state width="1632" height="194" key="GridCell.Tab.0.bottom/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518942" />
+    <state width="1632" height="183" key="GridCell.Tab.0.bottom/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590747177767" />
     <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510575" />
-    <state width="1632" height="194" key="GridCell.Tab.0.center" timestamp="1590586518941">
+    <state width="1632" height="183" key="GridCell.Tab.0.center" timestamp="1590747177767">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1501" height="202" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
     <state width="1397" height="238" key="GridCell.Tab.0.center/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
     <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
-    <state width="1632" height="194" key="GridCell.Tab.0.center/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518941" />
+    <state width="1632" height="183" key="GridCell.Tab.0.center/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590747177767" />
     <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
-    <state width="1632" height="194" key="GridCell.Tab.0.left" timestamp="1590586518941">
+    <state width="1632" height="183" key="GridCell.Tab.0.left" timestamp="1590747177767">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1501" height="202" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
     <state width="1397" height="238" key="GridCell.Tab.0.left/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666369" />
     <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
-    <state width="1632" height="194" key="GridCell.Tab.0.left/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518941" />
+    <state width="1632" height="183" key="GridCell.Tab.0.left/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590747177767" />
     <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
-    <state width="1632" height="194" key="GridCell.Tab.0.right" timestamp="1590586518942">
+    <state width="1632" height="183" key="GridCell.Tab.0.right" timestamp="1590747177767">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1501" height="202" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1160@0.0.1920.1160" timestamp="1588687690791" />
     <state width="1397" height="238" key="GridCell.Tab.0.right/0.0.1440.923/2160.0.1280.683@0.0.1440.923" timestamp="1589035666370" />
     <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584208633953" />
-    <state width="1632" height="194" key="GridCell.Tab.0.right/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590586518942" />
+    <state width="1632" height="183" key="GridCell.Tab.0.right/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590747177767" />
     <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583599510574" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1583591442814">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -221,6 +265,10 @@
     </state>
     <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582579066499" />
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1583591442812" />
+    <state x="652" y="384" key="ReplaceDuplicatesPrompt" timestamp="1590742823787">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="652" y="384" key="ReplaceDuplicatesPrompt/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590742823787" />
     <state x="2383" y="210" key="SettingsEditor" timestamp="1589666440038">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -236,6 +284,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="664" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1583589176831" />
+    <state x="567" y="201" key="extract.method.dialog" timestamp="1590742813539">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="567" y="201" key="extract.method.dialog/0.0.1676.902/460.1080.873.440/1920.0.1676.943@0.0.1676.902" timestamp="1590742813539" />
     <state x="299" y="143" key="new project wizard" timestamp="1590647674062">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
